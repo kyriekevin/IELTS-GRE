@@ -22,7 +22,46 @@ Conclusion (bonus)
 Reasonable interpretation
 
 Expressions
-|      | Moderate | Dramatic | Extreme |
-| ---- | -------- | -------- | ------- |
-| Up   |          |          |         |
-| Down |          |          |         |
+|          | Moderate                            | Dramatic                     | Extreme                                      |
+| ----     | --------                            | --------                     | -------                                      |
+| Up       | Rise, increase, grow, climb         | Jump, surge, soar, skyrocket | Peak at, reach the peak/top/highest point at |
+| Down     | Dip fall, decline, drop, decrease   | Slide, plunge, slump         | to the bottom of                             |
+| Maintain | stay constant, stabilize, level off |                              | Reach a plateau at, plateau at               |
+
+Fluctuate, bounce
+
+|        | Big                                                      | Small                | Fast                                | Slow                            |
+| --     | -                                                        | -                    | -                                   | -                               |
+| Change | Significantly, considerably, substantially, dramatically | Slightly, moderately | Quickly, sharply, rapidly, suddenly | gradually, consistently, slowly |
+
+Sub + verb + extent + change in data
+
+The proportion of women engineers in aerospace rose consistently from 7% in 2009 to 21% in 2020.
+
+Time + saw/witnessed a + extent + change in sub
+
+The years between 1999 and 2009 saw a significant hike in China's GDP.
+
+Sub demonstrated/ showed an upward/ downward trend, increasing/ decreasing from ... to ...
+
+The number of visitors to the museum demonstrated an apparent upward trend, increasing from 71,000 to 127,000 from 2007 to 2015.
+
+A + extent + change + can be seen in + sub, change in data
+
+A slight dip can be seen in the quantity of fast food consumed, from 17 units person in 2019 to 15 units in 2021.
+
+There was + extent + change in + sub, change in data
+
+There was a slight dip in the quantity of fast food consumed, from 17 units per person in 2019 to 15 units in 2021.
+
+Connections - before doing
+
+The proportion of women engineers in aerospace rose consistently from 7% in 2009 to 21% in 2020, before a predicted further hiking to 29% in 2025.
+
+Connections - and then do
+
+The proportion of women engineers in aerospace rose consistently from 7% in 2009 to 21% in 2020, and then is expected to further hike to 29% in 2025.
+
+Connections - followed by
+
+The proportion of women engineers in aerospace rose consistently from 7% in 2009 to 21% in 2020, followed by a predicted jump to 29% in 2025.
